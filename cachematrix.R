@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## functions do .. This function creates a special "matrix" object that can cache its inverse.
+## This function creates a special "matrix" object that can cache its inverse.
 ##set the value of the matrix
 ## get the value of the matrix
 ## set the value of the solve
